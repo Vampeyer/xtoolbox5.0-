@@ -1,15 +1,9 @@
+XToolbox 5.2.2
 
-=========================================== |
-XToolbox 5.2.2 -                            |
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= |
-I am Vampeyer ,                             |
-I am going to be handling this repo and     |
-its maintenance for the remainder of its    |
-time as of now.                             |
-                                            |
-Like an old golden pocketwatch , it would   |
-be a sin to see it rust away into nothing.  |
-+++++++++++++++++++++++++++++++++++++++++++++
+I am Vampeyer,
+I am going to be handling this repo and its maintenance for the remainder of its time as of now.
+Like an old golden pocketwatch, it would be a sin to see it rust away into nothing.
+
 <img src='https://github.com/Vampeyer/xtoolbox5.0-/blob/master/img/1.png' > <img>
 
 XToolbox 5.2.2 , is a toolbox that is built in python CLI , 
