@@ -1,0 +1,33 @@
+[2025-09-29 00:42:40,100] [INFO] Successfully imported 3 pages from tools_data.py
+[2025-09-29 00:42:40,100] [INFO] Successfully imported 4 pages from tools_data2.py
+[2025-09-29 00:42:40,101] [INFO] tools_data3.py not found, skipping: No module named 'tools_data3'
+[2025-09-29 00:42:40,101] [INFO] Page 'P.C. Tools' has 10 tools
+[2025-09-29 00:42:40,101] [INFO] Page 'Advanced Tools' has 4 tools
+[2025-09-29 00:42:40,101] [INFO] Page 'Programming' has 3 tools
+[2025-09-29 00:42:40,101] [INFO] Page 'Databases' has 3 tools
+[2025-09-29 00:42:40,101] [INFO] Page 'Games' has 3 tools
+[2025-09-29 00:42:40,101] [INFO] Page 'Linux ISOs' has 7 tools
+[2025-09-29 00:42:40,101] [INFO] Page 'Browsers' has 3 tools
+[2025-09-29 00:42:40,103] [INFO] Starting XToolBox v5.2.4
+[2025-09-29 00:42:40,104] [INFO] Loaded 7 pages, grouped into 3 groups
+[2025-09-29 00:42:51,406] [INFO] Navigated to page group 2
+[2025-09-29 00:42:51,870] [INFO] Navigated to page group 3
+[2025-09-29 00:56:14,816] [INFO] Successfully imported 3 pages from tools_data.py
+[2025-09-29 00:56:14,817] [INFO] Successfully imported 4 pages from tools_data2.py
+[2025-09-29 00:56:14,817] [INFO] tools_data3.py not found, skipping: No module named 'tools_data3'
+[2025-09-29 00:56:14,817] [INFO] Page 'P.C. Tools' has 10 tools
+[2025-09-29 00:56:14,817] [INFO] Page 'Advanced Tools' has 4 tools
+[2025-09-29 00:56:14,817] [INFO] Page 'Programming' has 3 tools
+[2025-09-29 00:56:14,817] [INFO] Page 'Databases' has 3 tools
+[2025-09-29 00:56:14,817] [INFO] Page 'Games' has 3 tools
+[2025-09-29 00:56:14,817] [INFO] Page 'Linux ISOs' has 7 tools
+[2025-09-29 00:56:14,817] [INFO] Page 'Browsers' has 3 tools
+[2025-09-29 00:56:14,819] [INFO] Starting XToolBox v5.2.4
+[2025-09-29 00:56:14,819] [INFO] Loaded 7 pages, grouped into 3 groups
+[2025-09-29 00:57:37,975] [INFO] Navigated to page group 2
+[2025-09-29 00:57:43,990] [INFO] Selected tool: Doom 2 from Games
+[2025-09-29 00:57:48,731] [INFO] Downloaded Doom 2 to Doom2.zip
+[2025-09-29 01:01:33,469] [INFO] Navigated to page group 3
+[2025-09-29 01:01:38,772] [INFO] Navigated to page group 1
+[2025-09-29 01:01:53,741] [WARNING] Invalid choice entered: m
+[2025-09-29 01:01:55,526] [INFO] Navigated to page group 2
