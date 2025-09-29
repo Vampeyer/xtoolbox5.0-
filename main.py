@@ -64,7 +64,7 @@ ACTIVE_PAGE_STYLE = Style(color="red", bold=True)
 headers = {"User-Agent": "Mozilla/5.0"}
 session = Session()
 session.mount("https://", HTTPAdapter(max_retries=3))
-
+ 
 def cls():
     """Clear the console."""
     system("cls" if os.name == "nt" else "clear")
