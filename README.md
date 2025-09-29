@@ -1,4 +1,4 @@
-XToolbox 5.2.2
+XToolbox 5.2.4
 
 I am Vampeyer,
 I am going to be handling this repo and its maintenance for the remainder of its time as of now.
