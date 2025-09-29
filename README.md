@@ -5,10 +5,10 @@ I am going to be handling this repo and its maintenance for the remainder of its
 
 Like an old golden pocketwatch, it would be a sin to see it rust away into nothing.
 
-<div>
+<article>
 <img src='https://github.com/Vampeyer/xtoolbox5.0-/blob/master/img/1.png' alt='XToolbox Screenshot'>
 <img src='https://github.com/Vampeyer/xtoolbox5.0-/blob/master/img/2.png' alt='XToolbox Screenshot'>
- </div>
+ </article>
 ---
 
 ## About XToolbox
