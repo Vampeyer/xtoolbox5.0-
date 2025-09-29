@@ -1,0 +1,14 @@
+
+To add tools_data4.py or beyond, you'll need to add a try-except block in main.py, e.g.:
+
+pythontry:
+    from tools_data4 import PAGES as PAGES4
+    PAGES.extend(PAGES4)
+except ImportError:
+    pass
+
+
+textTo add a new tools_data file (e.g., tools_data4.py):
+1. Create the file with the same PAGES structure as tools_data.py or tools_data2.py.
+2. Add a try-except import block in main.py for the new file.
+3. Rebuild with PyInstaller.

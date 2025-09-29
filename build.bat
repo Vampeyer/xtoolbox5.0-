@@ -1,0 +1,1 @@
+pyinstaller --name XToolBox-v5.2.4 --hidden-import=rich --noupx main.py

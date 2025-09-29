@@ -1,0 +1,1 @@
+pyinstaller --name Xtoolbox5.2.4 --hidden-import=rich --upx-dir . main.py
